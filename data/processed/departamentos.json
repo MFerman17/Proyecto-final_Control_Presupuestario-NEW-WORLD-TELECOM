@@ -1,0 +1,26 @@
+[
+  {
+    "departamento_id":1,
+    "nombre":"Atencion al Cliente"
+  },
+  {
+    "departamento_id":2,
+    "nombre":"Ventas B2B"
+  },
+  {
+    "departamento_id":3,
+    "nombre":"Operaciones y Logistica"
+  },
+  {
+    "departamento_id":4,
+    "nombre":"Marketing"
+  },
+  {
+    "departamento_id":5,
+    "nombre":"Tecnologia y TI"
+  },
+  {
+    "departamento_id":6,
+    "nombre":"Administracion y Finanzas"
+  }
+]

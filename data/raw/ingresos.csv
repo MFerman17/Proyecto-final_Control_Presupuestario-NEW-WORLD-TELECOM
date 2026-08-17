@@ -1,0 +1,37 @@
+id_ingreso,departamento_id,concepto,periodo_id,monto_ingresos
+1,2,Servicios B2B Corporativos,1,258950.55
+2,2,Servicios B2B Corporativos,2,257646.06
+3,2,Servicios B2B Corporativos,3,269513.74
+4,2,Servicios B2B Corporativos,4,269992.46
+5,2,Servicios B2B Corporativos,5,276210.22
+6,2,Servicios B2B Corporativos,6,274804.29
+7,2,Servicios B2B Corporativos,7,269273.55
+8,2,Servicios B2B Corporativos,8,253900.45
+9,2,Servicios B2B Corporativos,9,290288.39
+10,2,Servicios B2B Corporativos,10,288346.82
+11,2,Servicios B2B Corporativos,11,294899.44
+12,2,Servicios B2B Corporativos,12,306257.19
+13,1,Servicios Residenciales,1,148592.91
+14,1,Servicios Residenciales,2,151375.07
+15,1,Servicios Residenciales,3,152852.46
+16,1,Servicios Residenciales,4,152729.72
+17,1,Servicios Residenciales,5,157640.14
+18,1,Servicios Residenciales,6,153302.79
+19,1,Servicios Residenciales,7,150397.45
+20,1,Servicios Residenciales,8,138954.25
+21,1,Servicios Residenciales,9,157343.69
+22,1,Servicios Residenciales,10,160517.05
+23,1,Servicios Residenciales,11,157207.33
+24,1,Servicios Residenciales,12,162627.85
+25,5,Servicios de Valor Añadido (Cloud/Digital),1,67741.54
+26,5,Servicios de Valor Añadido (Cloud/Digital),2,70285.64
+27,5,Servicios de Valor Añadido (Cloud/Digital),3,71987.83
+28,5,Servicios de Valor Añadido (Cloud/Digital),4,73215.21
+29,5,Servicios de Valor Añadido (Cloud/Digital),5,76262.76
+30,5,Servicios de Valor Añadido (Cloud/Digital),6,77676.17
+31,5,Servicios de Valor Añadido (Cloud/Digital),7,76027.39
+32,5,Servicios de Valor Añadido (Cloud/Digital),8,73425.81
+33,5,Servicios de Valor Añadido (Cloud/Digital),9,86667.53
+34,5,Servicios de Valor Añadido (Cloud/Digital),10,86423.65
+35,5,Servicios de Valor Añadido (Cloud/Digital),11,89259.42
+36,5,Servicios de Valor Añadido (Cloud/Digital),12,93337.16

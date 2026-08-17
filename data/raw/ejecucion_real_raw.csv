@@ -1,0 +1,242 @@
+id_ejecucion,departamento,categoria,anio,mes,monto_ejecutado,fecha_registro
+1,Atencion al Cliente,Nomina y Personal,2025,1,42692.08,2025-01-09
+2,At. Cliente,Nomina y Personal,2025,2,43456.48,2025-02-21
+3,Atencion al Cliente,Nomina y Personal,2025,3,"42,426.84 EUR",2025-03-15
+4,ATENCION AL CLIENTE,Nomina y Personal,2025,4,43062.15,2025-04-05
+5,Atencion al Cliente,Nomina y Personal,2025,5,43880.34,2025-05-06
+6,Atencion al Cliente,Nomina y Personal,2025,6,43011.24,2025-06-26
+7,Atencion al Cliente,Nomina y Personal,2025,7,41633.14,2025-07-22
+8,Atencion al Cliente,Nomina y Personal,2025,8,43873.3,2025-08-05
+9,Atencion al Cliente,Nomina y Personal,2025,9,43169.83,2025-09-21
+10,Atencion al Cliente,Nomina y Personal,2025,10,"42913,92",2025-10-14
+11,Atencion al Cliente,Nomina y Personal,2025,11,41726.48,2025-11-09
+12,Atencion al Cliente,Nomina y Personal,2025,12,42750.28,2025-12-04
+13,Ventas B2B,Nomina y Personal,2025,1,35569.18,2025-01-27
+14,Ventas B2B,Nomina y Personal,2025,2,N/D,2025-02-12
+15,Ventas B2B,Nomina y Personal,2025,3,35274.04,2025-03-07
+16,Ventas B2B,Nomina y Personal,2025,4,34835.71,2025-04-28
+17,VENTAS B2B,Nomina y Personal,2025,5,34678.7,2025-05-26
+18,ventas b2b ,Nomina y Personal,2025,6,35563.45,2025-06-14
+19,Ventas B2B,Nomina y Personal,2025,7,35504.57,2025-07-26
+20,Ventas Corporativas B2B,Nomina y Personal,2025,8,33870.76,2025-08-27
+21,Ventas B2B,Nomina y Personal,2025,9,33759.19,2025-09-08
+22,Ventas B2B,Nomina y Personal,2025,10,33228.09,2025-10-25
+23,Ventas B2B,Nomina y Personal,2025,11,34749.35,2025-11-18
+24,Ventas B2B,Nomina y Personal,2025,12,32666.45,2025-12-19
+25,operaciones y logistica,Nomina y Personal,2025,1,47477.05,2025-01-26
+26,Operaciones y Logistica,Nomina y Personal,2025,2,49257.99,2025-02-19
+27,Operaciones y Logistica,Nomina y Personal,2025,3,46321.54,2025-03-26
+28,Operaciones y Logistica,Nomina y Personal,2025,4,49849.76,2025-04-12
+29,Operaciones y Logistica,Nomina y Personal,2025,5,51048.98,2025-05-22
+30,Operaciones y Logistica,Nomina y Personal,2025,6,49851.45,2025-06-14
+31,Operaciones y Logistica,Nomina y Personal,2025,7,49733.61,2025-07-22
+32,Operaciones y Logistica,Nomina y Personal,2025,8,49629.65,2025-08-10
+33,Operaciones y Logistica,Nomina y Personal,2025,9,50447.14,2025-09-26
+34,Operaciones y Logistica,Nomina y Personal,2025,10,49511.47,2025-10-07
+35,Operaciones y Logistica,Nomina y Personal,2025,11,50238.13,2025-11-22
+36,Operaciones y Logistica,Nomina y Personal,2025,12,48783.64,2025-12-27
+37,Marketing,Nomina y Personal,2025,1,23043.06,2025-01-05
+38,Marketing,Nomina y Personal,2025,2,23074.82,2025-02-03
+39,Marketing,Nomina y Personal,2025,3,25117.35,2025-03-13
+40,Marketing,Nomina y Personal,2025,4,,2025-04-25
+41,Marketing,Nomina y Personal,2025,5,25115.21,2025-05-26
+42,MARKETING,Nomina y Personal,2025,6,23944.7,2025-06-04
+43,Marketing,Nomina y Personal,2025,7,24847.51,2025-07-20
+44,Marketing,Nomina y Personal,2025,8,24700.47,2025-08-17
+45,Marketing,Nomina y Personal,2025,9,25183.33,2025-09-28
+46,marketing ,Nomina y Personal,2025,10,23120.53,2025-10-17
+47,Marketing,Nomina y Personal,2025,11,23057.0,2025-11-08
+48,Marketing,Nomina y Personal,2025,12,23313.27,2025-12-08
+49,Tecnologia/TI,Nomina y Personal,2025,1,46351.26,2025-01-18
+50,Tecnologia y TI,Nomina y Personal,2025,2,45729.79,2025-02-25
+51,Tecnologia y TI,Nomina y Personal,2025,3,50076.47,2025-03-13
+52,Tecnologia/TI,Nomina y Personal,2025,4,51773.38,2025-04-27
+53,Tecnologia y TI,Nomina y Personal,2025,5,50433.35,2025-05-08
+54,Tecnologia y TI,Nomina y Personal,2025,6,47175.83,2025-06-22
+55,Tecnologia/TI,Nomina y Personal,2025,7,48077.63,2025-07-20
+56,Tecnologia y TI,Nomina y Personal,2025,8,51527.56,2025-08-03
+57,Tecnologia y TI,Nomina y Personal,2025,9,N/D,2025-09-13
+58,Tecnologia y TI,Nomina y Personal,2025,10,48423.46,2025-10-09
+59,Tecnologia y TI,Nomina y Personal,2025,11,51012.73,2025-11-24
+60,Tecnologia y TI,Nomina y Personal,2025,12,52165.77,2025-12-25
+61,ADMINISTRACION Y FINANZAS,Nomina y Personal,2025,1,24522.35,2025-01-01
+62,Administracion y Finanzas,Nomina y Personal,2025,2,-24825.49,2025-02-07
+63,Administracion y Finanzas,Nomina y Personal,2025,3,24852.55,2025-03-24
+64,Admin y Finanzas,Nomina y Personal,2025,4,-25649.89,2025-04-01
+65,Administracion y Finanzas,Nomina y Personal,2025,5,25341.08,2025-05-23
+66,Administracion y Finanzas,Nomina y Personal,2025,6,25366.0,2025-06-23
+67,Administracion y Finanzas,Nomina y Personal,2025,7,25760.73,2025-07-19
+68,Administracion y Finanzas,Nomina y Personal,2025,8,24991.61,2025-08-17
+69,Administracion y Finanzas,Nomina y Personal,2025,9,24480.14,2025-09-14
+70,Administracion y Finanzas,Nomina y Personal,2025,10,25432.48,2025-10-14
+71,Administracion y Finanzas,Nomina y Personal,2025,11,25258.45,2025-11-18
+72,Administracion y Finanzas,Nomina y Personal,2025,12,25171.5,2025-12-11
+73,At. Cliente,Gastos Operativos,2025,1,8158.75,2025-01-15
+74,Atencion al Cliente,Gastos Operativos,2025,2,8080.73,2025-02-11
+75,Atencion al Cliente,Gastos Operativos,2025,3,7861.82,2025-03-20
+76,ATENCION AL CLIENTE,Gastos Operativos,2025,4,"7892,61",2025-04-24
+77,At. Cliente,Gastos Operativos,2025,5,8026.48,2025-05-16
+78,At. Cliente,Gastos Operativos,2025,6,7768.28,2025-06-10
+79,Atencion al Cliente,Gastos Operativos,2025,7,7937.13,2025-07-24
+80,Atencion al Cliente,Gastos Operativos,2025,8,7928.87,2025-08-08
+81,ATENCION AL CLIENTE,Gastos Operativos,2025,9,7852.44,2025-09-24
+82,Atencion al Cliente,Gastos Operativos,2025,10,8107.8,2025-10-10
+83,atencion cliente,Gastos Operativos,2025,11,8159.66,2025-11-01
+84,Atencion al Cliente,Gastos Operativos,2025,12,7820.76,2025-12-23
+85,Atencion al Cliente,Tecnologia e Infraestructura,2025,1,-5041.36,2025-01-01
+86,Atencion al Cliente,Tecnologia e Infraestructura,2025,2,4990.82,2025-02-02
+87,Atencion al Cliente,Tecnologia e Infraestructura,2025,3,5108.52,2025-03-03
+88,atencion cliente,Tecnologia e Infraestructura,2025,4,"5055,94",2025-04-08
+89,Atencion al Cliente,Tecnologia e Infraestructura,2025,5,5079.33,2025-05-08
+90,Atencion al Cliente,Tecnologia e Infraestructura,2025,6,4964.11,2025-06-19
+91,Atencion al Cliente,Tecnologia e Infraestructura,2025,7,4941.61,2025-07-24
+92,Atencion al Cliente,Tecnologia e Infraestructura,2025,8,5078.82,2025-08-03
+93,Atencion al Cliente,Tecnologia e Infraestructura,2025,9,4902.14,2025-09-23
+94,atencion cliente,Tecnologia e Infraestructura,2025,10,4937.38,2025-10-15
+95,ATENCION AL CLIENTE,Tecnologia e Infraestructura,2025,11,4920.03,2025-11-18
+96,ATENCION AL CLIENTE,Tecnologia e Infraestructura,2025,12,"4,894.70 EUR",2025-12-06
+97,Atencion al Cliente,Capacitacion y Desarrollo,2025,1,2514.26,2025-01-15
+98,Atencion al Cliente,Capacitacion y Desarrollo,2025,2,2528.3,2025-02-17
+99,Atencion al Cliente,Capacitacion y Desarrollo,2025,3,2490.66,2025-03-24
+100,Atencion al Cliente,Capacitacion y Desarrollo,2025,4,2462.56,2025-04-22
+101,Atencion al Cliente,Capacitacion y Desarrollo,2025,5,2511.44,2025-05-17
+102,At. Cliente,Capacitacion y Desarrollo,2025,6,2562.41,2025-06-16
+103,Atencion al Cliente,Capacitacion y Desarrollo,2025,7,2495.5,2025-07-04
+104,Atencion al Cliente,Capacitacion y Desarrollo,2025,8,2474.47,2025-08-13
+105,Atencion al Cliente,Capacitacion y Desarrollo,2025,9,2507.51,2025-09-11
+106,Atencion al Cliente,Capacitacion y Desarrollo,2025,10,2540.88,2025-10-01
+107,Atencion al Cliente,Capacitacion y Desarrollo,2025,11,2506.39,2025-11-12
+108,Atencion al Cliente,Capacitacion y Desarrollo,2025,12,N/D,2025-12-09
+109,Ventas B2B,Gastos Operativos,2025,1,6316.6,2025-01-04
+110,Ventas B2B,Gastos Operativos,2025,2,6138.01,2025-02-10
+111,Ventas B2B,Gastos Operativos,2025,3,6091.35,2025-03-04
+112,Ventas B2B,Gastos Operativos,2025,4,5852.38,2025-04-23
+113,Ventas B2B,Gastos Operativos,2025,5,6260.83,2025-05-18
+114,Ventas B2B,Gastos Operativos,2025,6,5874.37,2025-06-05
+115,Ventas B2B,Gastos Operativos,2025,7,5925.75,2025-07-26
+116,ventas b2b ,Gastos Operativos,2025,8,6252.33,2025-08-19
+117,Ventas Corporativas B2B,Gastos Operativos,2025,9,6053.78,2025-09-18
+118,Ventas B2B,Gastos Operativos,2025,10,5986.33,2025-10-23
+119,Ventas B2B,Gastos Operativos,2025,11,5989.78,2025-11-11
+120,Ventas B2B,Gastos Operativos,2025,12,6183.14,2025-12-22
+121,Ventas B2B,Marketing y Publicidad,2025,1,4100.81,2025-01-19
+122,Ventas B2B,Marketing y Publicidad,2025,2,"3880,15",2025-02-15
+123,Ventas B2B,Marketing y Publicidad,2025,2,"3880,15",2025-02-15
+124,Ventas B2B,Marketing y Publicidad,2025,3,3897.66,2025-03-03
+125,Ventas B2B,Marketing y Publicidad,2025,4,4227.68,2025-04-21
+126,Ventas B2B,Marketing y Publicidad,2025,5,3971.43,2025-05-11
+127,Ventas B2B,Marketing y Publicidad,2025,6,4194.98,2025-06-20
+128,Ventas B2B,Marketing y Publicidad,2025,7,4092.46,2025-07-24
+129,Ventas B2B,Marketing y Publicidad,2025,8,4231.34,2025-08-04
+130,Ventas B2B,Marketing y Publicidad,2025,9,N/D,2025-09-26
+131,Ventas B2B,Marketing y Publicidad,2025,10,3983.39,2025-10-14
+132,Ventas B2B,Marketing y Publicidad,2025,11,4157.01,2025-11-13
+133,Ventas B2B,Marketing y Publicidad,2025,12,3936.33,2025-12-15
+134,Ventas B2B,Capacitacion y Desarrollo,2025,1,3017.87,2025-01-15
+135,Ventas Corporativas B2B,Capacitacion y Desarrollo,2025,2,3083.28,2025-02-19
+136,Ventas B2B,Capacitacion y Desarrollo,2025,3,3168.61,2025-03-10
+137,Ventas B2B,Capacitacion y Desarrollo,2025,4,2995.41,2025-04-19
+138,Ventas B2B,Capacitacion y Desarrollo,2025,5,,2025-05-27
+139,Ventas B2B,Capacitacion y Desarrollo,2025,6,2962.34,2025-06-24
+140,Ventas B2B,Capacitacion y Desarrollo,2025,7,3153.19,2025-07-10
+141,Ventas B2B,Capacitacion y Desarrollo,2025,8,2949.04,2025-08-07
+142,Ventas B2B,Capacitacion y Desarrollo,2025,9,3083.33,2025-09-27
+143,Ventas B2B,Capacitacion y Desarrollo,2025,10,N/D,2025-10-26
+144,Ventas B2B,Capacitacion y Desarrollo,2025,11,"3053,87",2025-11-10
+145,ventas b2b ,Capacitacion y Desarrollo,2025,12,3004.65,2025-12-09
+146,Operaciones y Logistica,Gastos Operativos,2025,1,21961.87,2025-01-26
+147,Operaciones y Logistica,Gastos Operativos,2025,2,23446.36,2025-02-03
+148,Operaciones y Logistica,Gastos Operativos,2025,3,23678.93,2025-03-13
+149,Operaciones y Logistica,Gastos Operativos,2025,4,23287.1,2025-04-01
+150,Operaciones y Logistica,Gastos Operativos,2025,5,21639.08,2025-05-09
+151,Operaciones y Logistica,Gastos Operativos,2025,6,-23330.25,2025-06-08
+152,Operaciones y Logistica,Gastos Operativos,2025,7,22839.3,2025-07-20
+153,Operaciones y Logistica,Gastos Operativos,2025,8,21492.99,2025-08-10
+154,Operaciones y Logistica,Gastos Operativos,2025,9,21622.36,2025-09-16
+155,Operaciones y Logistica,Gastos Operativos,2025,10,21908.22,2025-10-12
+156,Operaciones y Logistica,Gastos Operativos,2025,11,23138.4,2025-11-24
+157,Operaciones y Logistica,Gastos Operativos,2025,12,23482.7,2025-12-20
+158,Operaciones/Logistica,Tecnologia e Infraestructura,2025,1,9672.01,2025-01-15
+159,Operaciones/Logistica,Tecnologia e Infraestructura,2025,2,9576.9,2025-02-21
+160,Operaciones y Logistica,Tecnologia e Infraestructura,2025,3,9124.16,2025-03-27
+161,Operaciones y Logistica,Tecnologia e Infraestructura,2025,4,9386.14,2025-04-01
+162,Operaciones y Logistica,Tecnologia e Infraestructura,2025,5,9060.17,2025-05-07
+163,OPERACIONES Y LOGISTICA,Tecnologia e Infraestructura,2025,6,9487.51,2025-06-08
+164,Operaciones y Logistica,Tecnologia e Infraestructura,2025,7,,2025-07-28
+165,Operaciones y Logistica,Tecnologia e Infraestructura,2025,8,9707.65,2025-08-04
+166,OPERACIONES Y LOGISTICA,Tecnologia e Infraestructura,2025,9,8755.52,2025-09-01
+167,Operaciones y Logistica,Tecnologia e Infraestructura,2025,10,8781.88,2025-10-24
+168,Operaciones y Logistica,Tecnologia e Infraestructura,2025,11,9173.79,2025-11-15
+169,Operaciones/Logistica,Tecnologia e Infraestructura,2025,12,9665.96,2025-12-01
+170,Marketing,Marketing y Publicidad,2025,1,36647.01,2025-01-16
+171,Marketing,Marketing y Publicidad,2025,2,36473.46,2025-02-05
+172,Marketing,Marketing y Publicidad,2025,3,35647.58,2025-03-11
+173,Mercadeo,Marketing y Publicidad,2025,4,"37227,22",2025-04-23
+174,Marketing,Marketing y Publicidad,2025,5,37508.09,2025-05-28
+175,marketing ,Marketing y Publicidad,2025,6,36512.62,2025-06-13
+176,Marketing,Marketing y Publicidad,2025,7,34765.92,2025-07-12
+177,Marketing,Marketing y Publicidad,2025,8,"37665,42",2025-08-03
+178,Marketing,Marketing y Publicidad,2025,9,34773.17,2025-09-18
+179,Marketing,Marketing y Publicidad,2025,10,38987.46,2025-10-14
+180,Marketing,Marketing y Publicidad,2025,11,37560.17,2025-11-24
+181,Marketing,Marketing y Publicidad,2025,12,-35709.38,2025-12-17
+182,Marketing,Gastos Operativos,2025,1,4287.77,2025-01-18
+183,Marketing,Gastos Operativos,2025,2,4347.06,2025-02-28
+184,Marketing,Gastos Operativos,2025,3,4349.76,2025-03-18
+185,Marketing,Gastos Operativos,2025,4,4440.29,2025-04-06
+186,Marketing,Gastos Operativos,2025,5,4346.95,2025-05-06
+187,Marketing,Gastos Operativos,2025,6,4237.14,2025-06-21
+188,Marketing,Gastos Operativos,2025,7,3971.38,2025-07-15
+189,Marketing,Gastos Operativos,2025,8,4127.23,2025-08-19
+190,Marketing,Gastos Operativos,2025,9,4414.67,2025-09-09
+191,Marketing,Gastos Operativos,2025,10,4157.45,2025-10-07
+192,Marketing,Gastos Operativos,2025,11,3983.74,2025-11-22
+193,Marketing,Gastos Operativos,2025,12,4215.08,2025-12-20
+194,Tecnologia y TI,Tecnologia e Infraestructura,2025,1,28578.58,2025-01-25
+195,Tecnologia/TI,Tecnologia e Infraestructura,2025,2,29098.11,2025-02-13
+196,Tecnologia y TI,Tecnologia e Infraestructura,2025,3,28686.47,2025-03-12
+197,Tecnologia y TI,Tecnologia e Infraestructura,2025,4,31339.41,2025-04-03
+198,Tecnologia y TI,Tecnologia e Infraestructura,2025,5,30138.19,2025-05-14
+199,Tecnologia y TI,Tecnologia e Infraestructura,2025,6,29421.14,2025-06-20
+200,Tecnologia y TI,Tecnologia e Infraestructura,2025,7,30616.36,2025-07-04
+201,Tecnologia y TI,Tecnologia e Infraestructura,2025,8,30193.26,2025-08-10
+202,Tecnologia y TI,Tecnologia e Infraestructura,2025,9,"28,650.60 EUR",2025-09-21
+203,Tecnologia y TI,Tecnologia e Infraestructura,2025,10,29861.8,2025-10-24
+204,Tecnologia y TI,Tecnologia e Infraestructura,2025,11,30430.86,2025-11-07
+205,Tecnologia y TI,Tecnologia e Infraestructura,2025,12,"28,362.05 EUR",2025-12-25
+206,Tecnologia y TI,Capacitacion y Desarrollo,2025,1,4238.37,2025-01-22
+207,Tecnologia y TI,Capacitacion y Desarrollo,2025,2,4298.7,2025-02-28
+208,Tecnologia y TI,Capacitacion y Desarrollo,2025,3,4149.68,2025-03-21
+209,Tecnologia y TI,Capacitacion y Desarrollo,2025,4,4124.8,2025-04-15
+210,Tecnologia y TI,Capacitacion y Desarrollo,2025,5,4181.24,2025-05-17
+211,Tecnologia y TI,Capacitacion y Desarrollo,2025,6,4308.2,2025-06-02
+212,Tecnologia y TI,Capacitacion y Desarrollo,2025,7,4445.89,2025-07-16
+213,Tecnologia y TI,Capacitacion y Desarrollo,2025,8,4534.63,2025-08-27
+214,Tecnologia y TI,Capacitacion y Desarrollo,2025,9,4388.59,2025-09-08
+215,Tecnologia y TI,Capacitacion y Desarrollo,2025,10,4554.59,2025-10-12
+216,Tecnologia y TI,Capacitacion y Desarrollo,2025,11,4129.74,2025-11-20
+217,Tecnologia y TI,Capacitacion y Desarrollo,2025,12,4338.53,2025-12-18
+218,Administracion y Finanzas,Gastos Operativos,2025,1,6839.34,2025-01-20
+219,Administracion y Finanzas,Gastos Operativos,2025,2,6860.01,2025-02-12
+220,Administracion y Finanzas,Gastos Operativos,2025,3,6995.54,2025-03-23
+221,Administracion y Finanzas,Gastos Operativos,2025,4,6850.02,2025-04-27
+222,Administracion y Finanzas,Gastos Operativos,2025,5,7015.19,2025-05-17
+223,Administracion y Finanzas,Gastos Operativos,2025,6,,2025-06-10
+224,Administracion y Finanzas,Gastos Operativos,2025,7,6809.96,2025-07-08
+225,Administracion y Finanzas,Gastos Operativos,2025,8,6785.08,2025-08-18
+226,Admin y Finanzas,Gastos Operativos,2025,9,7091.15,2025-09-20
+227,ADMINISTRACION Y FINANZAS,Gastos Operativos,2025,10,6878.22,2025-10-02
+228,administracion y finanzas,Gastos Operativos,2025,11,7004.07,2025-11-25
+229,Administracion y Finanzas,Gastos Operativos,2025,12,6908.55,2025-12-26
+230,administracion y finanzas,Tecnologia e Infraestructura,2025,1,3042.72,2025-01-10
+231,Administracion y Finanzas,Tecnologia e Infraestructura,2025,2,2970.52,2025-02-07
+232,administracion y finanzas,Tecnologia e Infraestructura,2025,3,2904.91,2025-03-18
+233,Administracion y Finanzas,Tecnologia e Infraestructura,2025,4,3008.05,2025-04-03
+234,Administracion y Finanzas,Tecnologia e Infraestructura,2025,5,2929.1,2025-05-14
+235,Administracion y Finanzas,Tecnologia e Infraestructura,2025,6,3043.89,2025-06-01
+236,Administracion y Finanzas,Tecnologia e Infraestructura,2025,7,2951.36,2025-07-03
+237,Administracion y Finanzas,Tecnologia e Infraestructura,2025,8,2885.07,2025-08-21
+238,administracion y finanzas,Tecnologia e Infraestructura,2025,9,2906.29,2025-09-05
+239,Administracion y Finanzas,Tecnologia e Infraestructura,2025,10,2964.44,2025-10-01
+240,Administracion y Finanzas,Tecnologia e Infraestructura,2025,11,3030.29,2025-11-17
+241,Administracion y Finanzas,Tecnologia e Infraestructura,2025,12,N/D,2025-12-14

@@ -1,0 +1,326 @@
+[
+  {
+    "id_forecast":1,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":13,
+    "monto_ingresos_forecast":157972.93,
+    "monto_min":146533.31,
+    "monto_max":169412.54
+  },
+  {
+    "id_forecast":2,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":14,
+    "monto_ingresos_forecast":160880.71,
+    "monto_min":149441.09,
+    "monto_max":172320.32
+  },
+  {
+    "id_forecast":3,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":15,
+    "monto_ingresos_forecast":162400.9,
+    "monto_min":150961.29,
+    "monto_max":173840.52
+  },
+  {
+    "id_forecast":4,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":16,
+    "monto_ingresos_forecast":162221.09,
+    "monto_min":150781.47,
+    "monto_max":173660.7
+  },
+  {
+    "id_forecast":5,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":17,
+    "monto_ingresos_forecast":167386.19,
+    "monto_min":155946.58,
+    "monto_max":178825.8
+  },
+  {
+    "id_forecast":6,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":18,
+    "monto_ingresos_forecast":162732.11,
+    "monto_min":151292.49,
+    "monto_max":174171.72
+  },
+  {
+    "id_forecast":7,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":19,
+    "monto_ingresos_forecast":159600.89,
+    "monto_min":148161.28,
+    "monto_max":171040.5
+  },
+  {
+    "id_forecast":8,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":20,
+    "monto_ingresos_forecast":147414.29,
+    "monto_min":135974.68,
+    "monto_max":158853.9
+  },
+  {
+    "id_forecast":9,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":21,
+    "monto_ingresos_forecast":166874.99,
+    "monto_min":155435.38,
+    "monto_max":178314.6
+  },
+  {
+    "id_forecast":10,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":22,
+    "monto_ingresos_forecast":170191.74,
+    "monto_min":158752.13,
+    "monto_max":181631.36
+  },
+  {
+    "id_forecast":11,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":23,
+    "monto_ingresos_forecast":166635.19,
+    "monto_min":155195.57,
+    "monto_max":178074.8
+  },
+  {
+    "id_forecast":12,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":24,
+    "monto_ingresos_forecast":172332.28,
+    "monto_min":160892.67,
+    "monto_max":183771.89
+  },
+  {
+    "id_forecast":13,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":13,
+    "monto_ingresos_forecast":302043.5,
+    "monto_min":281832.03,
+    "monto_max":322254.96
+  },
+  {
+    "id_forecast":14,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":14,
+    "monto_ingresos_forecast":299935.46,
+    "monto_min":279723.99,
+    "monto_max":320146.93
+  },
+  {
+    "id_forecast":15,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":15,
+    "monto_ingresos_forecast":313154.15,
+    "monto_min":292942.69,
+    "monto_max":333365.62
+  },
+  {
+    "id_forecast":16,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":16,
+    "monto_ingresos_forecast":313128.33,
+    "monto_min":292916.86,
+    "monto_max":333339.8
+  },
+  {
+    "id_forecast":17,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":17,
+    "monto_ingresos_forecast":319759.67,
+    "monto_min":299548.2,
+    "monto_max":339971.14
+  },
+  {
+    "id_forecast":18,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":18,
+    "monto_ingresos_forecast":317570.17,
+    "monto_min":297358.7,
+    "monto_max":337781.64
+  },
+  {
+    "id_forecast":19,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":19,
+    "monto_ingresos_forecast":310642.23,
+    "monto_min":290430.76,
+    "monto_max":330853.69
+  },
+  {
+    "id_forecast":20,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":20,
+    "monto_ingresos_forecast":292414.27,
+    "monto_min":272202.8,
+    "monto_max":312625.74
+  },
+  {
+    "id_forecast":21,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":21,
+    "monto_ingresos_forecast":333772.18,
+    "monto_min":313560.72,
+    "monto_max":353983.65
+  },
+  {
+    "id_forecast":22,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":22,
+    "monto_ingresos_forecast":331007.25,
+    "monto_min":310795.78,
+    "monto_max":351218.72
+  },
+  {
+    "id_forecast":23,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":23,
+    "monto_ingresos_forecast":337997.96,
+    "monto_min":317786.49,
+    "monto_max":358209.42
+  },
+  {
+    "id_forecast":24,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":24,
+    "monto_ingresos_forecast":350477.05,
+    "monto_min":330265.58,
+    "monto_max":370688.52
+  },
+  {
+    "id_forecast":25,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":13,
+    "monto_ingresos_forecast":93722.05,
+    "monto_min":87371.85,
+    "monto_max":100072.26
+  },
+  {
+    "id_forecast":26,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":14,
+    "monto_ingresos_forecast":96407.03,
+    "monto_min":90056.82,
+    "monto_max":102757.24
+  },
+  {
+    "id_forecast":27,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":15,
+    "monto_ingresos_forecast":97938.14,
+    "monto_min":91587.93,
+    "monto_max":104288.35
+  },
+  {
+    "id_forecast":28,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":16,
+    "monto_ingresos_forecast":98838.25,
+    "monto_min":92488.04,
+    "monto_max":105188.45
+  },
+  {
+    "id_forecast":29,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":17,
+    "monto_ingresos_forecast":102196.02,
+    "monto_min":95845.81,
+    "monto_max":108546.23
+  },
+  {
+    "id_forecast":30,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":18,
+    "monto_ingresos_forecast":103362.18,
+    "monto_min":97011.98,
+    "monto_max":109712.39
+  },
+  {
+    "id_forecast":31,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":19,
+    "monto_ingresos_forecast":100493.97,
+    "monto_min":94143.76,
+    "monto_max":106844.17
+  },
+  {
+    "id_forecast":32,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":20,
+    "monto_ingresos_forecast":96438.03,
+    "monto_min":90087.82,
+    "monto_max":102788.24
+  },
+  {
+    "id_forecast":33,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":21,
+    "monto_ingresos_forecast":113138.46,
+    "monto_min":106788.25,
+    "monto_max":119488.67
+  },
+  {
+    "id_forecast":34,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":22,
+    "monto_ingresos_forecast":112164.91,
+    "monto_min":105814.7,
+    "monto_max":118515.12
+  },
+  {
+    "id_forecast":35,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":23,
+    "monto_ingresos_forecast":115201.41,
+    "monto_min":108851.2,
+    "monto_max":121551.62
+  },
+  {
+    "id_forecast":36,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":24,
+    "monto_ingresos_forecast":119822.81,
+    "monto_min":113472.61,
+    "monto_max":126173.02
+  }
+]

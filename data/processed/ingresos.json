@@ -1,0 +1,254 @@
+[
+  {
+    "id_ingreso":1,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":1,
+    "monto_ingresos":258950.55
+  },
+  {
+    "id_ingreso":2,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":2,
+    "monto_ingresos":257646.06
+  },
+  {
+    "id_ingreso":3,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":3,
+    "monto_ingresos":269513.74
+  },
+  {
+    "id_ingreso":4,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":4,
+    "monto_ingresos":269992.46
+  },
+  {
+    "id_ingreso":5,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":5,
+    "monto_ingresos":276210.22
+  },
+  {
+    "id_ingreso":6,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":6,
+    "monto_ingresos":274804.29
+  },
+  {
+    "id_ingreso":7,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":7,
+    "monto_ingresos":269273.55
+  },
+  {
+    "id_ingreso":8,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":8,
+    "monto_ingresos":253900.45
+  },
+  {
+    "id_ingreso":9,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":9,
+    "monto_ingresos":290288.39
+  },
+  {
+    "id_ingreso":10,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":10,
+    "monto_ingresos":288346.82
+  },
+  {
+    "id_ingreso":11,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":11,
+    "monto_ingresos":294899.44
+  },
+  {
+    "id_ingreso":12,
+    "departamento_id":2,
+    "concepto":"Servicios B2B Corporativos",
+    "periodo_id":12,
+    "monto_ingresos":306257.19
+  },
+  {
+    "id_ingreso":13,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":1,
+    "monto_ingresos":148592.91
+  },
+  {
+    "id_ingreso":14,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":2,
+    "monto_ingresos":151375.07
+  },
+  {
+    "id_ingreso":15,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":3,
+    "monto_ingresos":152852.46
+  },
+  {
+    "id_ingreso":16,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":4,
+    "monto_ingresos":152729.72
+  },
+  {
+    "id_ingreso":17,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":5,
+    "monto_ingresos":157640.14
+  },
+  {
+    "id_ingreso":18,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":6,
+    "monto_ingresos":153302.79
+  },
+  {
+    "id_ingreso":19,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":7,
+    "monto_ingresos":150397.45
+  },
+  {
+    "id_ingreso":20,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":8,
+    "monto_ingresos":138954.25
+  },
+  {
+    "id_ingreso":21,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":9,
+    "monto_ingresos":157343.69
+  },
+  {
+    "id_ingreso":22,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":10,
+    "monto_ingresos":160517.05
+  },
+  {
+    "id_ingreso":23,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":11,
+    "monto_ingresos":157207.33
+  },
+  {
+    "id_ingreso":24,
+    "departamento_id":1,
+    "concepto":"Servicios Residenciales",
+    "periodo_id":12,
+    "monto_ingresos":162627.85
+  },
+  {
+    "id_ingreso":25,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":1,
+    "monto_ingresos":67741.54
+  },
+  {
+    "id_ingreso":26,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":2,
+    "monto_ingresos":70285.64
+  },
+  {
+    "id_ingreso":27,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":3,
+    "monto_ingresos":71987.83
+  },
+  {
+    "id_ingreso":28,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":4,
+    "monto_ingresos":73215.21
+  },
+  {
+    "id_ingreso":29,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":5,
+    "monto_ingresos":76262.76
+  },
+  {
+    "id_ingreso":30,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":6,
+    "monto_ingresos":77676.17
+  },
+  {
+    "id_ingreso":31,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":7,
+    "monto_ingresos":76027.39
+  },
+  {
+    "id_ingreso":32,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":8,
+    "monto_ingresos":73425.81
+  },
+  {
+    "id_ingreso":33,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":9,
+    "monto_ingresos":86667.53
+  },
+  {
+    "id_ingreso":34,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":10,
+    "monto_ingresos":86423.65
+  },
+  {
+    "id_ingreso":35,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":11,
+    "monto_ingresos":89259.42
+  },
+  {
+    "id_ingreso":36,
+    "departamento_id":5,
+    "concepto":"Servicios de Valor Añadido (Cloud\/Digital)",
+    "periodo_id":12,
+    "monto_ingresos":93337.16
+  }
+]

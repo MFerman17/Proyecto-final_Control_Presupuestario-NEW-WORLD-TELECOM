@@ -1,0 +1,22 @@
+[
+  {
+    "categoria_id":1,
+    "nombre":"Nomina y Personal"
+  },
+  {
+    "categoria_id":2,
+    "nombre":"Gastos Operativos"
+  },
+  {
+    "categoria_id":3,
+    "nombre":"Marketing y Publicidad"
+  },
+  {
+    "categoria_id":4,
+    "nombre":"Tecnologia e Infraestructura"
+  },
+  {
+    "categoria_id":5,
+    "nombre":"Capacitacion y Desarrollo"
+  }
+]

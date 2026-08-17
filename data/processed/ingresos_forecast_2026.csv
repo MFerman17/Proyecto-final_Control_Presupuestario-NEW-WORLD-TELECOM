@@ -1,0 +1,37 @@
+id_forecast,departamento_id,concepto,periodo_id,monto_ingresos_forecast,monto_min,monto_max
+1,1,Servicios Residenciales,13,157972.93,146533.31,169412.54
+2,1,Servicios Residenciales,14,160880.71,149441.09,172320.32
+3,1,Servicios Residenciales,15,162400.9,150961.29,173840.52
+4,1,Servicios Residenciales,16,162221.09,150781.47,173660.7
+5,1,Servicios Residenciales,17,167386.19,155946.58,178825.8
+6,1,Servicios Residenciales,18,162732.11,151292.49,174171.72
+7,1,Servicios Residenciales,19,159600.89,148161.28,171040.5
+8,1,Servicios Residenciales,20,147414.29,135974.68,158853.9
+9,1,Servicios Residenciales,21,166874.99,155435.38,178314.6
+10,1,Servicios Residenciales,22,170191.74,158752.13,181631.36
+11,1,Servicios Residenciales,23,166635.19,155195.57,178074.8
+12,1,Servicios Residenciales,24,172332.28,160892.67,183771.89
+13,2,Servicios B2B Corporativos,13,302043.5,281832.03,322254.96
+14,2,Servicios B2B Corporativos,14,299935.46,279723.99,320146.93
+15,2,Servicios B2B Corporativos,15,313154.15,292942.69,333365.62
+16,2,Servicios B2B Corporativos,16,313128.33,292916.86,333339.8
+17,2,Servicios B2B Corporativos,17,319759.67,299548.2,339971.14
+18,2,Servicios B2B Corporativos,18,317570.17,297358.7,337781.64
+19,2,Servicios B2B Corporativos,19,310642.23,290430.76,330853.69
+20,2,Servicios B2B Corporativos,20,292414.27,272202.8,312625.74
+21,2,Servicios B2B Corporativos,21,333772.18,313560.72,353983.65
+22,2,Servicios B2B Corporativos,22,331007.25,310795.78,351218.72
+23,2,Servicios B2B Corporativos,23,337997.96,317786.49,358209.42
+24,2,Servicios B2B Corporativos,24,350477.05,330265.58,370688.52
+25,5,Servicios de Valor Añadido (Cloud/Digital),13,93722.05,87371.85,100072.26
+26,5,Servicios de Valor Añadido (Cloud/Digital),14,96407.03,90056.82,102757.24
+27,5,Servicios de Valor Añadido (Cloud/Digital),15,97938.14,91587.93,104288.35
+28,5,Servicios de Valor Añadido (Cloud/Digital),16,98838.25,92488.04,105188.45
+29,5,Servicios de Valor Añadido (Cloud/Digital),17,102196.02,95845.81,108546.23
+30,5,Servicios de Valor Añadido (Cloud/Digital),18,103362.18,97011.98,109712.39
+31,5,Servicios de Valor Añadido (Cloud/Digital),19,100493.97,94143.76,106844.17
+32,5,Servicios de Valor Añadido (Cloud/Digital),20,96438.03,90087.82,102788.24
+33,5,Servicios de Valor Añadido (Cloud/Digital),21,113138.46,106788.25,119488.67
+34,5,Servicios de Valor Añadido (Cloud/Digital),22,112164.91,105814.7,118515.12
+35,5,Servicios de Valor Añadido (Cloud/Digital),23,115201.41,108851.2,121551.62
+36,5,Servicios de Valor Añadido (Cloud/Digital),24,119822.81,113472.61,126173.02

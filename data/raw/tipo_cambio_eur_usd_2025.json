@@ -1,0 +1,14 @@
+[
+  {"fecha": "2025-01-01", "base": "EUR", "eur_usd": 1.0348},
+  {"fecha": "2025-02-01", "base": "EUR", "eur_usd": 1.0412},
+  {"fecha": "2025-03-01", "base": "EUR", "eur_usd": 1.0789},
+  {"fecha": "2025-04-01", "base": "EUR", "eur_usd": 1.1221},
+  {"fecha": "2025-05-01", "base": "EUR", "eur_usd": 1.1276},
+  {"fecha": "2025-06-01", "base": "EUR", "eur_usd": 1.1518},
+  {"fecha": "2025-07-01", "base": "EUR", "eur_usd": 1.1699},
+  {"fecha": "2025-08-01", "base": "EUR", "eur_usd": 1.1646},
+  {"fecha": "2025-09-01", "base": "EUR", "eur_usd": 1.1732},
+  {"fecha": "2025-10-01", "base": "EUR", "eur_usd": 1.1648},
+  {"fecha": "2025-11-01", "base": "EUR", "eur_usd": 1.1564},
+  {"fecha": "2025-12-01", "base": "EUR", "eur_usd": 1.1712}
+]
