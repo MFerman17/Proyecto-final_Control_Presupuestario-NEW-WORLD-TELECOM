@@ -104,7 +104,7 @@ function skeletons(){
       </div>
       <div class="kpirow" id="r-kpis"></div>
       <div class="grid2">
-        <div class="card"><h3>Ingresos reales vs. Presupuesto por mes</h3><div class="cardsub">Serie mensual 2025</div>
+        <div class="card"><h3>Ingresos reales vs. Presupuesto de gastos por mes</h3><div class="cardsub">Serie mensual 2025</div>
           <div class="chartwrap"><canvas id="r-chart-trend"></canvas></div></div>
         <div class="card"><h3>Distribución de ingresos</h3><div class="cardsub">Por línea de negocio</div>
           <div class="chartwrap"><canvas id="r-chart-donut"></canvas></div></div>
@@ -211,7 +211,7 @@ function renderResumen(){
     type:'line',
     data:{ labels:MESES, datasets:[
       {label:'Ingresos reales', data:ingByMes, borderColor:COLORS.teal, backgroundColor:COLORS.tealLight, tension:.35, fill:true, pointRadius:2},
-      {label:'Presupuesto', data:preByMes, borderColor:COLORS.navy, backgroundColor:'transparent', tension:.35, borderDash:[5,3], pointRadius:2},
+      {label:'Presupuesto de gastos', data:preByMes, borderColor:COLORS.navy, backgroundColor:'transparent', tension:.35, borderDash:[5,3], pointRadius:2},
     ]},
     options:baseLineOpts(),
   });
